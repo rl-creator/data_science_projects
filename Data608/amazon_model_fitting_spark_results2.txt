@@ -1,0 +1,7 @@
+2020-04-12 01:32:51 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
+2020-04-12 01:34:57 WARN  WindowExec:66 - No Partition Defined for Window operation! Moving all data to a single partition, this can cause serious performance degradation.
+There are 75257650 entries in the dataset.
+After cleaning there are 62454271 entries remaining.
+Test Error of random forest classifier with balanced dataset: 0.654913
+Trapped Exit cleaning up Spark Context
+Trapped Exit cleaning up Spark Job
